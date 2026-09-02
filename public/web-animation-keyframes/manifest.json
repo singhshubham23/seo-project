@@ -1,0 +1,89 @@
+{
+  "source_fps": 24.0,
+  "source_frame_count": 97,
+  "source_duration_seconds": 4.041666666666667,
+  "keyframe_count": 16,
+  "animation_note": "Sequence follows the supplied video from keys coming out through the final state, suitable for a web image-sequence animation.",
+  "frames": [
+    {
+      "file": "keyframe_00.webp",
+      "source_frame": 0,
+      "time_seconds": 0.0
+    },
+    {
+      "file": "keyframe_01.webp",
+      "source_frame": 6,
+      "time_seconds": 0.25
+    },
+    {
+      "file": "keyframe_02.webp",
+      "source_frame": 13,
+      "time_seconds": 0.5417
+    },
+    {
+      "file": "keyframe_03.webp",
+      "source_frame": 19,
+      "time_seconds": 0.7917
+    },
+    {
+      "file": "keyframe_04.webp",
+      "source_frame": 26,
+      "time_seconds": 1.0833
+    },
+    {
+      "file": "keyframe_05.webp",
+      "source_frame": 32,
+      "time_seconds": 1.3333
+    },
+    {
+      "file": "keyframe_06.webp",
+      "source_frame": 38,
+      "time_seconds": 1.5833
+    },
+    {
+      "file": "keyframe_07.webp",
+      "source_frame": 45,
+      "time_seconds": 1.875
+    },
+    {
+      "file": "keyframe_08.webp",
+      "source_frame": 51,
+      "time_seconds": 2.125
+    },
+    {
+      "file": "keyframe_09.webp",
+      "source_frame": 58,
+      "time_seconds": 2.4167
+    },
+    {
+      "file": "keyframe_10.webp",
+      "source_frame": 64,
+      "time_seconds": 2.6667
+    },
+    {
+      "file": "keyframe_11.webp",
+      "source_frame": 70,
+      "time_seconds": 2.9167
+    },
+    {
+      "file": "keyframe_12.webp",
+      "source_frame": 77,
+      "time_seconds": 3.2083
+    },
+    {
+      "file": "keyframe_13.webp",
+      "source_frame": 83,
+      "time_seconds": 3.4583
+    },
+    {
+      "file": "keyframe_14.webp",
+      "source_frame": 90,
+      "time_seconds": 3.75
+    },
+    {
+      "file": "keyframe_15.webp",
+      "source_frame": 96,
+      "time_seconds": 4.0
+    }
+  ]
+}
