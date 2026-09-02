@@ -19,6 +19,9 @@ export const metadata = {
   },
   description:
     "Find the best mechanical keyboards under ₹2,000 in India. Expert comparisons, buying guides, and detailed reviews to help you choose the right keyboard.",
+  verification: {
+    google: "Zp_NcPaoDiegYg2puiVZ4qdJ2FOMdt-r9K8m114azEo",
+  },
   openGraph: {
     type: "website",
     locale: "en_IN",
